@@ -1,1 +1,2 @@
 print("manga")
+a=("abc")
